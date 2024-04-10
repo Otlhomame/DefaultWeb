@@ -1,5 +1,5 @@
 # FirstRepo
-This is our first repository
+This is our first repository. A intensive github mastery revisit covering branching, pull, push, remote team work administration and version control etc.
 
 This is our working directory
 
